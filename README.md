@@ -34,7 +34,7 @@ The folder structure and their contents are outlined below:
 
 ## Coding Overview
 Code was written in Python and executed in Jupyter notebooks.
-##### The following libraries were utilized:
+#### The following libraries were utilized:
 - Pandas: For data manipulation and analysis.
 - NumPy: For numerical operations and array handling.
 - OS: For interacting with the operating system, including file and directory operations.
