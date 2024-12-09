@@ -13,7 +13,7 @@ This repository offers a comprehensive analysis of Instacart's sales data, aimed
 - Are there differences in ordering habits based on a customer’s region?
 - Is there a correlation between age and family status regarding ordering habits?
 - What classifications can be derived from demographic information, such as age, income, types of goods, and family status?
-- How do ordering habits differ among various customer profiles?
+- What differences can be found in ordering habits of different customer profiles?
 
 ## Folders
 Description of folder contents are as follows:
