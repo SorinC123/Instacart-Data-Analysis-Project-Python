@@ -1,17 +1,17 @@
 # Instacart Data Analysis Project
 
 ## Project Summary
-This repository provides an in-depth exploratory analysis of Instacart's sales data, focusing on uncovering key customer purchasing patterns. As an analyst for Instacart, the goal is to derive actionable insights that will inform targeted marketing strategies. The analysis addresses critical questions from the sales and marketing teams, including identifying the busiest days and hours for orders, understanding spending patterns, and exploring product popularity by department. Additionally, the project delves into customer segmentation, examining differences in behavior by brand loyalty, region, age, income, and family status. These insights will help Instacart tailor marketing campaigns to more effectively engage diverse customer profiles, boost sales, and enhance the relevance of promotions and ads.
+This repository offers a comprehensive analysis of Instacart's sales data, aimed at uncovering key customer purchasing trends. Acting as an analyst for Instacart, the primary objective is to generate actionable insights to guide targeted marketing strategies. The analysis tackles critical questions from the sales and marketing teams, such as identifying the peak days and hours for orders, understanding spending behaviors, and assessing product popularity across departments. Furthermore, the project explores customer segmentation by examining behavioral differences based on brand loyalty, region, age, income, and family status. These findings aim to help Instacart design marketing campaigns that better engage diverse customer segments, drive sales growth, and enhance the relevance of promotions and advertisements.
 
 ## Key Questions
 - What are the busiest days of the week and hours of the day?
-- At what times do customers spend the most money?
-- With Instacart’s wide range of product prices, what recommendations can simplify price range groupings to better guide marketing efforts?
+- Are there particular times of the day when people spend the most money?
+- Is it possible to implement simpler price range groupings?
 - Are there specific types of products that are more popular than others?
 - How is brand loyalty distributed among users?
 - Do ordering habits vary based on a customer’s loyalty status?
 - Are there differences in ordering habits based on a customer’s region?
-- Is there a connection between age and family status regarding ordering habits?
+- Is there a correlation between age and family status regarding ordering habits?
 - What classifications can be derived from demographic information, such as age, income, types of goods, and family status?
 - How do ordering habits differ among various customer profiles?
 
