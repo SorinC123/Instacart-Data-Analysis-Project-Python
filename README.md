@@ -15,6 +15,18 @@ This repository offers a comprehensive analysis of Instacart's sales data, aimed
 - What classifications can be derived from demographic information, such as age, income, types of goods, and family status?
 - What differences can be found in ordering habits of different customer profiles?
 
+## Data Overview
+The following datasets were used for this project:
+- Customers
+- Orders
+- Orders_products_prior
+- Products
+- Departments
+
+
+
+
+
 ## Folders
 Description of folder contents are as follows:
 - 01 Project Management: Contains the project brief and related documentation.
