@@ -43,4 +43,4 @@ Code was written in Python and executed in Jupyter notebooks.
 - Scipy: For scientific and technical computing.
 
 ## Disclaimer: 
-Instacart is a real company that’s made their data available online, however customer data is fictitious and used for the purposes of Career Foundry's Data Analytics program. 
+Instacart is a real company that’s made their data available online, however customer data is fictitious and used for the purpose of data depersonalization. 
