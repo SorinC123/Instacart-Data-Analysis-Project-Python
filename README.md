@@ -22,10 +22,7 @@ The following datasets were used for this project:
 - Orders_products_prior
 - Products
 - Departments
-
-
-
-
+Created 3 additional datasets for grouping data based on geographical regions.
 
 ## Folders
 Description of folder contents are as follows:
