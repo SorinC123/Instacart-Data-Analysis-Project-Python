@@ -27,7 +27,7 @@ The following datasets were used for this project:
 ## Folders
 The folder structure and their contents are outlined below:
 - 01 Project Management: Contains the project brief.
-- 02 Data: Data not uploaded due to size restrictions.
+- 02 Data: Data was not uploaded due to size restrictions.
 - 03 Scripts: Python code used in the analysis, executed using Jupyter Notebooks.
 - 04 Analysis: Contains the 'Visualizations' subfolder which includes all visualizations used for the analysis and eliciting insights.
 - 05 Sent to Client: Final Excel presentation of the project which includes the insights and recommendations.
