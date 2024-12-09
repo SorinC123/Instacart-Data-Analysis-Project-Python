@@ -25,14 +25,12 @@ The following datasets were used for this project:
 - Created 3 additional datasets for grouping data based on geographical regions.
 
 ## Folders
-Description of folder contents are as follows:
-- 01 Project Management: Contains the project brief and related documentation.
-- 02 Data: Includes two subfolders: (Data not uploaded to GitHub due to size limitations.)
-  - 'Original Data': Original datasets.
-  - 'Prepared Data': Cleaned data ready for analysis.
-- 03 Scripts: Python code for the analysis, executed using Jupyter notebooks.
-- 04 Analysis: Contains the 'Visualizations' subfolder with all visualizations used for exploratory analysis and explaining insights.
-- 05 Sent to Client: Final Excel presentation.
+The folder structure and their contents are outlined below:
+- 01 Project Management: Contains the project brief.
+- 02 Data: Data not uploaded due to size restrictions.
+- 03 Scripts: Python code used in the analysis, executed using Jupyter Notebooks.
+- 04 Analysis: Contains the 'Visualizations' subfolder which includes all visualizations used for the analysis and eliciting insights.
+- 05 Sent to Client: Final Excel presentation of the project which includes the insights and recommendations.
 
 ## Code Overview
 Code was written in Python and executed in Jupyter notebooks.
